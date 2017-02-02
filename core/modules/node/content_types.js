@@ -32,6 +32,7 @@
         if (!$(context).find('#edit-options-status').is(':checked')) {
           vals.unshift(Drupal.t('Not published'));
         }
+        vals = $.map(vals, $.trim); // Trim newlines and whitespace
         return vals.join(', ');
       });
       $('#edit-language', context).drupalSetSummary(function (context) {
