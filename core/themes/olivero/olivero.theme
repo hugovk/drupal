@@ -3,6 +3,7 @@
 /**
  * @file
  * Functions to support theming in the Olivero theme.
+ * LINGUIST DEMO
  */
 
 use Drupal\olivero\OliveroPreRender;

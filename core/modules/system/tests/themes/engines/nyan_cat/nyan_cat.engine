@@ -3,7 +3,8 @@
 /**
  * @file
  * Handles integration of Nyan cat templates because we love kittens.
- */
+ * LINGUIST DEMO
+*/
 
 use Drupal\Core\Extension\Extension;
 

@@ -3,6 +3,7 @@
 /**
  * @file
  * Lists available colors and color schemes for the Bartik theme.
+ * LINGUIST DEMO
  */
 
 $info = [

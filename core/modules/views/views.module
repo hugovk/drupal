@@ -3,6 +3,7 @@
 /**
  * @file
  * Primarily Drupal hooks and global API functions to manipulate views.
+ * LINGUIST DEMO
  */
 
 use Drupal\Component\Utility\Html;
